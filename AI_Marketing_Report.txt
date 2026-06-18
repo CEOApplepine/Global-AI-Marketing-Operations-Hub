@@ -1,0 +1,21 @@
+
+
+You are a Marketing Operations Analyst.
+
+Analyze this campaign data:
+
+  Customer_Segment  Customers  Average_Spend  Average_Purchases  Campaign_Response
+0       High Value        553    1492.978300          20.021700                167
+1        Low Value       1108     112.143502           6.297834                100
+2     Medium Value        555     712.445045          17.616216                 66
+
+Provide:
+
+1. Key insights
+
+2. Customer opportunities
+
+3. Campaign recommendations
+
+4. Business risks
+
