@@ -1,9 +1,38 @@
-# Global-AI-Marketing-Operations-Hub
 # Global AI Marketing Operations Hub
 
-## Overview
+## Technical Case Study
 
-AI-powered marketing analytics platform combining data engineering, automation, and generative AI.
+AI-powered marketing analytics platform that transforms customer campaign data into actionable business insights.
+
+## Business Problem
+
+Marketing teams need faster reporting, automated analysis, and scalable workflows to improve campaign decisions.
+
+## Solution
+
+Built an end-to-end analytics workflow:
+
+Raw Data  
+
+↓  
+
+Python ETL Pipeline  
+
+↓  
+
+Data Cleaning & Transformation  
+
+↓  
+
+Customer Segmentation  
+
+↓  
+
+AI-Generated Insights  
+
+↓  
+
+Business Recommendations
 
 ## Technologies
 
@@ -15,22 +44,30 @@ AI-powered marketing analytics platform combining data engineering, automation, 
 
 - OpenAI API
 
-- Power BI / Looker Studio
+- GitHub
 
-- n8n
+- Data Analytics
 
 ## Features
 
-- Data cleaning pipeline
+- Data cleaning and ETL pipeline
+
+- Marketing KPI generation
 
 - Customer segmentation
 
-- Marketing KPI analytics
-
-- AI-generated campaign insights
+- AI-generated marketing recommendations
 
 - Automated reporting workflow
 
-## Business Impact
+## Skills Demonstrated
 
-Transforms raw marketing data into actionable insights for campaign optimization.
+- Data Engineering
+
+- Marketing Analytics
+
+- AI Integration
+
+- Process Automation
+
+- Business Intelligence
