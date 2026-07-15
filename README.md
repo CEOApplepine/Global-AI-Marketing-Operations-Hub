@@ -1,4 +1,4 @@
-# Global AI Marketing Operations Hub
+#  AI Marketing Operations Hub
 
 ## Technical Case Study
 
